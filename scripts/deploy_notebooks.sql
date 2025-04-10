@@ -4,7 +4,7 @@
 Hands-On Lab: Intro to Data Engineering with Notebooks
 Script:       deploy_notebooks.sql
 Author:       Satwik Jinna
-Last Updated: 04/05/2024
+Last Updated: 04/05/2025
 -----------------------------------------------------------------------------*/
 
 -- See https://docs.snowflake.com/en/LIMITEDACCESS/execute-immediate-from-template
